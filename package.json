@@ -55,7 +55,7 @@
     "moment": "^2.22.1",
     "mongodb": "^3.1.13",
     "statman-stopwatch": "^2.7.0",
-    "snyk": "^1.297.4"
+    "snyk": "^1.316.1"
   },
   "homepage": "https://github.com/JamesOsgood/mongodb-grafana#readme",
   "snyk": true
